@@ -5,10 +5,6 @@
 # DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
 
-# Apple Intelligence：
-DOMAIN-KEYWORD,apple-relay
-DOMAIN-SUFFIX,apple-relay.cloudflare.com
-DOMAIN-SUFFIX,apple-relay.apple.com
 
 # Apple Intelligence：
 DOMAIN-SUFFIX,guzzoni.apple.com
@@ -60,6 +56,7 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,signalr.net
+
 
 
 
